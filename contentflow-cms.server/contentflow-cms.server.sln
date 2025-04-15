@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contentflow-cms.server", "contentflow-cms.server.csproj", "{EB382764-3139-4DD1-9DD8-43264BFD0CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{2592A0BF-7558-46F2-AB5A-199626B15837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB382764-3139-4DD1-9DD8-43264BFD0CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB382764-3139-4DD1-9DD8-43264BFD0CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB382764-3139-4DD1-9DD8-43264BFD0CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB382764-3139-4DD1-9DD8-43264BFD0CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2592A0BF-7558-46F2-AB5A-199626B15837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2592A0BF-7558-46F2-AB5A-199626B15837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2592A0BF-7558-46F2-AB5A-199626B15837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2592A0BF-7558-46F2-AB5A-199626B15837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87CDCCDF-B1EA-42BC-A64A-A70F2708BB75}
+	EndGlobalSection
+EndGlobal
